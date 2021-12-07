@@ -8,4 +8,4 @@ sno|NAME|StageName
 4|Kin Seokjin|Jin
 5|Jeon Jungkook|JK
 6|Park Jimin|Jimin
-7|J-hope|Hobi
+7|Jung Ho-seok|Hobi
